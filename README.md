@@ -3,4 +3,4 @@ Regan Yang's User Page
 
 My favorite programming language is Java
 
-Link:
+Link: https://sidecoin.github.io/
